@@ -1,1 +1,1 @@
-Hey! Created a new markdown file in this repository!
+Welcome to my GitHub profile!
